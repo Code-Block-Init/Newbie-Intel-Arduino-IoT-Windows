@@ -1,5 +1,14 @@
 ***
 <b>Getting Started with Intel-Galileo-Generation-2 in Windows</b>
+```
+Key Components
+```
+***
+![](http://static.generation-robots.com/img/cms/Galileo/xComposants,P20cles,P20de,P20la,P20carte,P20Arduino,P20Intel,P20Galileo.png.pagespeed.ic._jzk8Z2kLV.jpg)
+***
+```
+Galileo Board Connection diagram
+```
 ***
 ![](https://www.arduino.cc/en/uploads/ArduinoCertified/GalileoGen2Schema.png)
 ***
